@@ -78,5 +78,5 @@ dfunn1k2@ubuntu:~/shell$
 
 ## Authors and Github
 
-- **Please, read the [AUTHORS](https://github.com/Ineffable22/simple_shell/blob/main/AUTHORS) file**
-- **https://github.com/Dfunn1k/simple_shell**
+- **Please, read the [AUTHORS](https://github.com/Dfunn1k/Simple-Shell/blob/main/AUTHORS) file**
+- **https://github.com/Dfunn1k/Simple-Shell**
